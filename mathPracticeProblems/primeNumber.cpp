@@ -2,8 +2,7 @@
 using namespace std;
 
 string isPrime(int num) {
-        if(num==1) return "No";
-        if(num==2) return "Yes";
+        if(num<=1) return "No";
         for(int i=2;i<num;i++){
             if(num%i==0) return "No";
         }
