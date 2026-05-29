@@ -3,9 +3,9 @@ using namespace std;
 
 int smallestDigit(int num) {
         int smallest = INT_MAX ; // Initialize smallest to the maximum possible integer value
-        while(num!=0){
+        while(num != 0){
            int lastdigit = num % 10;
-           if(smallest>lastdigit) smallest=lastdigit;
+           if(lastdigit < smallest) smallest = lastdigit;
            num = num / 10;
         }
         return smallest;
