@@ -1,7 +1,5 @@
 /*
     * Standard Template Library (STL) 
-    
-    *  Created on: 2024-06-01
 
     what is STL?
 
