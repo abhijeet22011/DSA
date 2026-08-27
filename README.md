@@ -49,4 +49,9 @@ Consistency is key 💪
 | ------- |
 | [0242-valid-anagram](https://github.com/abhijeet22011/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhijeet22011/DSA/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhijeet22011/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhijeet22011/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
