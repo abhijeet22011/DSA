@@ -58,4 +58,16 @@ Consistency is key 💪
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhijeet22011/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhijeet22011/DSA/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhijeet22011/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhijeet22011/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
