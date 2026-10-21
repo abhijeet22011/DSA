@@ -25,16 +25,19 @@ Consistency is key 💪
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhijeet22011/DSA/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeet22011/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeet22011/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeet22011/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeet22011/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhijeet22011/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhijeet22011/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeet22011/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/abhijeet22011/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/abhijeet22011/DSA/tree/master/0541-reverse-string-ii) |
 ## Sorting
