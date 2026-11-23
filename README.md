@@ -78,6 +78,7 @@ Consistency is key 💪
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/abhijeet22011/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/abhijeet22011/DSA/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
